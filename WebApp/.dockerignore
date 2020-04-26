@@ -1,0 +1,5 @@
+__pycache__
+*.pyc
+midasenv/
+db.sqlite3
+.vscode

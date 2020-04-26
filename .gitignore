@@ -1,0 +1,5 @@
+WebApp/__pycache__
+WebApp/*.pyc
+WebApp/midasenv/
+WebApp/.vscode
+WebApp/db.sqlite3
