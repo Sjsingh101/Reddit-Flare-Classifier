@@ -73,7 +73,7 @@ def predict_all(urls):
     return dict(zip(urls_clean,flare_list))
 
 
-mean_score = 1000   
+mean_score = 1337.46  
 def preprocess(url):
     post = getdatafromURL(url)
     titles = [post['title']+post['selftext'],]

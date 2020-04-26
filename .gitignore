@@ -3,3 +3,4 @@ WebApp/*.pyc
 WebApp/midasenv/
 WebApp/.vscode
 WebApp/db.sqlite3
+Notebook/.ipynb_checkpoints
