@@ -1,7 +1,7 @@
 astroid==2.3.3
 certifi==2020.4.5.1
 chardet==3.0.4
-Django==2.2.13
+Django==2.2.18
 gunicorn==19.9.0
 idna==2.9
 isort==4.3.21
